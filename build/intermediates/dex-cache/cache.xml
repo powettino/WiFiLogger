@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/powered/workspace_android/genericProject/WifiLogger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/powered/workspace_android/genericProject/WifiLogger/app/build/intermediates/pre-dexed/debug/classes-5780a8a92eaab5636e3ac6ff216920b076aa7f0f.jar" />
+    </item>
+    <item
+        jar="/Users/powered/workspace_android/genericProject/WifiLogger/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/powered/workspace_android/genericProject/WifiLogger/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-eacbddf55651023c4963207943402abf678add46.jar" />
+    </item>
+    <item
+        jar="/Users/powered/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/powered/workspace_android/genericProject/WifiLogger/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-cca1d38d48853a78f54e2c84d9bab4b961ef7a23.jar" />
+    </item>
+    <item
+        jar="/Users/powered/workspace_android/genericProject/WifiLogger/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/powered/workspace_android/genericProject/WifiLogger/app/build/intermediates/pre-dexed/debug/classes-a4cb67b55f78111a13f2b0d6f776a2cbd519e0ef.jar" />
+    </item>
+
+</items>
